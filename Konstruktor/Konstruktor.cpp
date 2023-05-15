@@ -23,6 +23,7 @@ mahasiswa::mahasiswa(int iNim) {
 }
 
 mahasiswa::mahasiswa(string iNama) {
+	nim = 0;
 	nama = iNama;
 }
 
