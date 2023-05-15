@@ -30,11 +30,11 @@ void mahasiswa::printAll() {
 }
 
 int main() {
-	mahasiswa mhs1("Ratih");
-	mahasiswa mhs2("Nandu");
+	mahasiswa mhs1("Ratihh");
+	mahasiswa mhs2("Nanduu");
 	mahasiswa::setNim(9);		//mengakses nim melalui static member function "setNim"
-	mahasiswa mhs3("Rezza");
-	mahasiswa mhs4("Rasya");
+	mahasiswa mhs3("Rezzaa");
+	mahasiswa mhs4("Rasyaa");
 
 	mhs1.printAll();
 	mhs2.printAll();
